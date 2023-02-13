@@ -50,6 +50,3 @@ $ flask run
 - Volume Button created by Agarunov Oktay-Abraham from [the Noun Project](https://thenounproject.com/search/?q=volume&i=576880)
 - Star Wars Hyperspace Copyright (c) 2021 by [yonatan](https://codepen.io/ybensira/pen/byYNBZ)
 - Remaining Star Wars Icons and Logos from Various Sources
-
-## 🔒 License
-Copyright Notice and Statement: currently not offering any license. Permission only to view and download.
